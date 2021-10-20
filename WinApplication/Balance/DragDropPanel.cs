@@ -47,6 +47,12 @@ namespace Balance
             {
                 mDown = e.Location;
                 //найти блок под курсором
+                Point p = new Point(e.X - offset.X, e.Y - offset.Y);
+                IDragable drag = block.OfType<IDragable>().FirstOrDefault();
+                if (drag!=null)
+                {
+                    dragged = drag.StartDrag(p); //начало перетаскивания блока
+                }
             }
         }
 

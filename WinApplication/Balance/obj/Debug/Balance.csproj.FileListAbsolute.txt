@@ -1,0 +1,11 @@
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.csprojAssemblyReference.cache
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.DragDropPanel.resources
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.Form1.resources
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.Properties.Resources.resources
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.csproj.GenerateResource.cache
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.csproj.CoreCompileInputs.cache
+E:\data\progs\Projects\Balance\WinApplication\Balance\bin\Debug\Balance.exe.config
+E:\data\progs\Projects\Balance\WinApplication\Balance\bin\Debug\Balance.exe
+E:\data\progs\Projects\Balance\WinApplication\Balance\bin\Debug\Balance.pdb
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.exe
+E:\data\progs\Projects\Balance\WinApplication\Balance\obj\Debug\Balance.pdb
